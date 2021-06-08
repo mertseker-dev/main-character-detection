@@ -3,7 +3,8 @@ A method for detecting the most important people in images.
 ## Contents
 1. [Getting Started](#getting-started)
 2. [Main Character Detection](#main-character-detection)
-5. [References](#references)
+3. [Results](#results)
+4. [References](#references)
 
 ## Getting Started
 The code requires the following libraries to be installed:
@@ -90,6 +91,10 @@ $ python main_character_detection.py -r=[PATH_TO_IMAGES, WRITE_PATH]
 
 ### Output format
 The outputs of the evaluation will automatically be written in a csv. file with a unique timestamp name under the folder "outputs". The naming format of the files are: "YYYYMMDD-HHMMSS.csv". The output file contains the following information for each image: filename, [bottom left X pixel location of the main character's facial rectangle, bottom left Y pixel location of the main character's facial rectangle, top right X pixel location of the main character's facial rectangle, top right Y pixel location of the main character's facial rectangle]. In case there are multiple detected main characters, there will be multiple rows with the same filename where each row will contain the location of a different main character.
+
+## Results
+
+We collected 300 images with a wide variety from the internet. The main characters were annotated by a professional photojournalist for all of the images. Our method was able to produce a 0.83 F1-score for main character detection on this dataset.
 
 ## References
 
