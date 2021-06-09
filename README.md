@@ -86,7 +86,7 @@ In order to run the code on a folder containing one or more images, run the foll
 ```sh
 $ python main_character_detection.py -r=[PATH_TO_IMAGES, WRITE_PATH]
 ```
-- PATH_TO_IMAGES (mandatory): Path to the folder that contains the images to be evaluated. The path should be in the following example format: 'C:\\Users\\user\\Documents\\examples\\'. Use '\\' in between the directories and also use '\\' at the end.
+- PATH_TO_IMAGES (mandatory): Path to the folder that contains the images to be evaluated. The path should be in the following example format: 'C:\\Users\\user\\Documents\\examples\\'. Use '\\' in between the directories and also use '\\\' at the end.
 - WRITE_PATH (optional): Path to the folder that will contain the output images. The output images will have rectangles on the detected faces. Predicted main characters will have a green facial rectangle and the rest will have red facial rectangles. Use the same format as PATH_TO_IMAGES.
 
 ### Output format
