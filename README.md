@@ -86,8 +86,8 @@ In order to run the code on a folder containing one or more images, run the foll
 ```sh
 $ python main_character_detection.py -r=[PATH_TO_IMAGES, WRITE_PATH]
 ```
-- PATH_TO_IMAGES (mandatory): Path to the folder that contains the images to be evaluated.
-- WRITE_PATH (optional): Path to the folder that will contain the output images. The output images will have rectangles on the detected faces. Predicted main characters will have a green facial rectangle and the rest will have red facial rectangles.
+- PATH_TO_IMAGES (mandatory): Path to the folder that contains the images to be evaluated. The path should be in the following example format: 'C:\\Users\\user\\Documents\\examples\\'. Use '\\' in between the directories and also use '\\' at the end.
+- WRITE_PATH (optional): Path to the folder that will contain the output images. The output images will have rectangles on the detected faces. Predicted main characters will have a green facial rectangle and the rest will have red facial rectangles. Use the same format as PATH_TO_IMAGES.
 
 ### Output format
 The outputs of the evaluation will automatically be written in a csv. file with a unique timestamp name under the folder "outputs". The naming format of the files are: "YYYYMMDD-HHMMSS.csv". The output file contains the following information for each image: filename, [top left X pixel location of the main character's facial rectangle, top left Y pixel location of the main character's facial rectangle, bottom right X pixel location of the main character's facial rectangle, bottom right Y pixel location of the main character's facial rectangle]. In case there are multiple detected main characters, there will be multiple rows with the same filename where each row will contain the location of a different main character.
