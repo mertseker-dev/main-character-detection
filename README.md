@@ -101,7 +101,7 @@ We collected 300 images with a wide variety from the internet. The main characte
 
 You can see example outputs below.
 
-![alt text](https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1011287184-2048x2048.jpg?raw=true)
+![alt text](https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1011287184-2048x2048.jpg?raw=true){:height="50%" width="50%"}
 
 ## References
 
