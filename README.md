@@ -102,6 +102,15 @@ We collected 300 images with a wide variety from the internet. The main characte
 You can see example outputs below.
 
 <img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1011287184-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1124741508-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1128725181-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1132119295-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1137111682-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1150732821-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1171147332-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-942265356-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-965461846-2048x2048.jpg" width="200" />
+<img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-975581156-2048x2048.jpg" width="200" />
 
 ## References
 
