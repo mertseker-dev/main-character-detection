@@ -4,7 +4,8 @@ A method for detecting the most important people in images.
 1. [Getting Started](#getting-started)
 2. [Main Character Detection](#main-character-detection)
 3. [Results](#results)
-4. [References](#references)
+4. [Example Outputs](#example-outputs)
+5. [References](#references)
 
 ## Getting Started
 The code requires the following libraries to be installed:
@@ -95,6 +96,12 @@ The outputs of the evaluation will automatically be written in a csv. file with 
 ## Results
 
 We collected 300 images with a wide variety from the internet. The main characters were annotated by a professional photojournalist for all of the images. Our method was able to produce a 0.83 F1-score for main character detection on this dataset.
+
+## Example Outputs
+
+You can see example outputs below.
+
+![alt text](https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1011287184-2048x2048.jpg?raw=true)
 
 ## References
 
