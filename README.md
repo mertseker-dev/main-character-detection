@@ -99,7 +99,7 @@ We collected 300 images with a wide variety from the internet. The main characte
 
 ## Example Outputs
 
-You can see example outputs below.
+You can see example outputs below. Predicted main characters are highlighted with a green rectangle while the rest are highlighted with a red rectangle.
 
 <p float="left">
   <img src="https://github.com/mertseker-dev/main-character-detection/blob/main/examples/gettyimages-1011287184-2048x2048.jpg" width="400" />
